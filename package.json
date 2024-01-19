@@ -1,0 +1,23 @@
+{
+  "name": "project-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [],
+  "author": "Marcos Parreiras",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@types/node": "^20.10.6",
+    "typescript": "^5.3.3",
+    "vite-tsconfig-paths": "^4.2.3",
+    "vitest": "^1.1.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
